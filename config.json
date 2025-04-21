@@ -1,5 +1,5 @@
 {
-  "proxy_url": "https://mirr-ac-sold.com",
+  "proxy_url": "https://mirr.ac-sold.com",
   "token_prefix": "/mirr/",
   "local_listen_port": 5006,
   "description": "注意:token_prefix相当于网站密码，请谨慎设置。 proxy_url和token_prefix合起来就是访问网址。"
